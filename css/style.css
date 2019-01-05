@@ -1,0 +1,22 @@
+body{
+	background-color:rgb(58, 58, 228);
+}
+#fondo{
+	max-width: 100%;
+}
+#logo{
+	max-width: 100%;
+}
+
+.nav{
+	font-size: 3em;
+}
+nav a{
+	margin-left: 1em;
+	color:black;
+}
+
+nav a:hover{
+	background-color: white;
+}
+
