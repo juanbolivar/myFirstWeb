@@ -1,5 +1,24 @@
+#title{
+	font-family: 'Major Mono Display', monospace;
+	text-align: center;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	color:#B2A753;
+	font-weight: bold;
+	font-size: 4em;
+}
+.link{
+	color:#4C4BD3;
+}
+#develloper{
+	widows: 20em;
+	height: 20em;
+	display:block;
+margin:auto;
+}
 body{
-	background-color:rgb(58, 58, 228);
+	background-color:#CEC4FF;
+	font-family: 'Noticia Text', serif;
 }
 #fondo{
 	max-width: 100%;
